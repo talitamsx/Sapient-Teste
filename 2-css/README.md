@@ -4,7 +4,7 @@
 
 Neste teste iremos avaliar o seu conhecimento em CSS e organização de código.
 
-Você irá utilizar os arquivos em PDF da pasta **layout** para construir o CSS da página. O arquivo **index.html** contém todas os elementos do layout (sem marcação semântica), porém tem todas as classes necessárias já aplicadas no código, e com base nelas você deve replicar o layout responsivo para as versões desktop, tablet e mobile.
+Você irá utilizar o [layout do XD](https://xd.adobe.com/view/83f7c49b-74d3-459f-bb12-cc9aaed5677f-d6a4/) para construir o CSS da página. O arquivo **index.html** contém todas os elementos do layout (sem marcação semântica), porém tem todas as classes necessárias já aplicadas no código, e com base nelas você deve replicar o layout responsivo para as versões desktop, tablet e mobile.
 
 A entrega é apenas o arquivo de CSS. Fique a vontade para aplicar animações em elementos como botões.
 
