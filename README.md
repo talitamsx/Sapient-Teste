@@ -2,11 +2,9 @@
 
 ## Como fazer o teste?
 
-  * Faça o git clone do projeto para a sua máquina
-  * Crie um branch com o seu nome
+  * Crie um fork do projeto
   * Siga as instruções do **README.md** contido em cada uma das pastas
-  * Faça um merge request para o branch main com: Nome, e-mail e se quiser comentários
-  * Entre em contato com a pessoa que te enviou o teste para avisar que pode ser verificado
+  * Envie o link do fork do projeto para a pessoa que lhe enviou o teste
 
 > Faça tudo com calma e carinho que vamos olhar desta forma na hora de analisar o seu teste, e boa sorte <3
 
