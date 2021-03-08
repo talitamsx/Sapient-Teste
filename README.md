@@ -2,9 +2,11 @@
 
 ## Como fazer o teste?
 
-  * Crie um fork do projeto
+  * Clone o projeto na sua máquina
   * Siga as instruções do **README.md** contido em cada uma das pastas
-  * Envie o link do fork do projeto para a pessoa que lhe enviou o teste
+  * Crie o projeto em um respositório pessoal
+  * Mude o remote do repositório clonado para o seu repositório pessoal
+  * Envie o link do seu respositório para a pessoa que lhe enviou o teste
 
 > Faça tudo com calma e carinho que vamos olhar desta forma na hora de analisar o seu teste, e boa sorte <3
 
